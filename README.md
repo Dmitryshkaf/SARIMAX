@@ -4,7 +4,6 @@ Forecasting time series using SARIMAX
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![SARIMAX](https://img.shields.io/badge/Model-SARIMAX-green)](https://www.statsmodels.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 Система для прогнозирования потребления горячего водоснабжения (ГВС) и автоматического обнаружения аномалий в показаниях счетчиков с использованием моделей временных рядов SARIMAX.
 
